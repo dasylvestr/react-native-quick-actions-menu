@@ -1,0 +1,30 @@
+{
+  "name": "react-native-quick-actions-menu",
+  "version": "1.0.1",
+  "description": "Easily add quick action menus to your React Native applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dasylvestr/react-native-quick-actions-menu"
+  },
+  "keywords": [
+    "react-native",
+    "quick",
+    "actions",
+    "menu",
+    "animated"
+  ],
+  "author": "Markly Bobom",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-native": ">=0.63.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react-native-reanimated": "^2.2.0"
+  }
+}
